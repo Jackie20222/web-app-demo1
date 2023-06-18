@@ -1,5 +1,7 @@
 <template>
-  <header>mainview</header>
+    <div style="background-color: rgb(122, 92, 204);">
+    <header>headerview1231</header>
+  </div>
 </template>
 
 <script>

@@ -1,5 +1,7 @@
 <template>
-  <header>footerview</header>
+   <div style="background-color: rgb(102, 177, 228);">
+    <header>headerview1231</header>
+  </div>
 </template>
 
 <script>

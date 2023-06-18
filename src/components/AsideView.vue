@@ -1,5 +1,8 @@
 <template>
-  <header>asideview 1231</header>
+  
+  <div style="background-color: rgb(144, 165, 94);">
+    <header>headerview1231</header>
+  </div>
 </template>
 
 <script>
