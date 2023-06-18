@@ -1,10 +1,10 @@
 <template>
-  <header>main</header>
+  <header>mainview</header>
 </template>
 
 <script>
 export default {
-  name: 'Main',
+  name: 'MainView',
   props: {
    
   }

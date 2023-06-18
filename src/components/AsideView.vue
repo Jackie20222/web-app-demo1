@@ -1,10 +1,10 @@
 <template>
-  <header>aside</header>
+  <header>asideview 1231</header>
 </template>
 
 <script>
 export default {
-  name: 'Aside',
+  name: 'AsideView',
   props: {
    
   }
