@@ -5,7 +5,9 @@
   
   <div class="common-layout">
     <el-container>
-      <el-header>Header</el-header>
+      <el-header>
+        <HeaderView msg="Welcome to Your Vue.js App"/>
+      </el-header>
       <el-container>
         <el-aside width="200px">Aside</el-aside>
         <el-container>
@@ -20,11 +22,13 @@
 
 <script>
 // import HelloWorld from './components/HelloWorld.vue'
+ import HeaderView from './components/HeaderView.vue'
 
 export default {
   name: 'App',
   components: {
     // HelloWorld
+    HeaderView
   }
 }
 
